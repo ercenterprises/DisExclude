@@ -9,6 +9,7 @@ DisExclude is a public list of Discord IDs to exclude from your MassDM campaigns
 | ----------- | ----------- | ----------- | ----------- |
 | <img src="https://user-images.githubusercontent.com/121643953/213957651-05e4f082-4036-41be-91d4-0cd0a7ca446d.png" height="40" width="40" style="border-radius: 50%" />      | xplicit#0001       | 1048771417744871486           | Copycat / Reporter
 | <img src="https://user-images.githubusercontent.com/121643953/213957884-37f1d912-b44f-4ea3-8fb9-d96e0837b6a7.png" height="40" width="40" style="border-radius: 50%" />      | $age#0003       | 120993867133747203           | Copycat
+| <img src="https://i.ibb.co/GJthCWs/a-2ff73fcd42b640ed16206a56ce4d252a.gif" height="40" width="40" style="border-radius: 50%" />      | MaxiPad#0001       | 1011882220400685078           | Mass Reporter
 | <img src="https://i.ibb.co/w0X1B2G/e851009b80ebae83b9e5cb12ffff125e.png" height="40" width="40" style="border-radius: 50%" />      | OnlyFaith♡#4731       | 1025412577360093245           | Copycat
 | <img src="https://i.ibb.co/sCxy93h/a-6dfa43c364b227c872c1f70cb394e100.gif" height="40" width="40" style="border-radius: 50%" />      | verlox#0667       | 1020440076024557628           | Copycat
 | <img src="https://i.ibb.co/sPtW94r/eb4a12d5a9f8f64ec8792545d10e3e0c.png" height="40" width="40" style="border-radius: 50%" />      | Idkman#9164       | 1048407375742251038           | Copycat
@@ -23,7 +24,6 @@ DisExclude is a public list of Discord IDs to exclude from your MassDM campaigns
 | <img src="https://i.ibb.co/Jp2zJZB/b9919188843e2de21fe87b6826080c65.png" height="40" width="40" style="border-radius: 50%" />      | Hello!#3653       | 887662577637814333           | Copycat
 | <img src="https://i.ibb.co/yqk1Fd5/76a081071ecb5b3b3c2ae075d75e395e.png" height="40" width="40" style="border-radius: 50%" />      | Shiragashi#0136       | 811949261939933215           | Copycat
 | <img src="https://i.ibb.co/F0zYr9N/a-fcf93479031bc59e498cb80f1999112f.gif" height="40" width="40" style="border-radius: 50%" />      | Vinito#0101       | 1048035668338675793           | Copycat
-| <img src="https://i.ibb.co/GJthCWs/a-2ff73fcd42b640ed16206a56ce4d252a.gif" height="40" width="40" style="border-radius: 50%" />      | MaxiPad#0001       | 1011882220400685078           | Copycat
 | <img src="https://i.ibb.co/9YKHVdn/2bb0918736f63b3d36e0169d525ca336.png" height="40" width="40" style="border-radius: 50%" />      | scfvg#5562       | 927689227125293097           | Copycat
 | <img src="https://i.ibb.co/JdwqbvL/2e232e4a8e6a5572029ce5a054dfb01e.png" height="40" width="40" style="border-radius: 50%" />      | gekkin.edot.#0483       | 1022452242705567754           | Copycat
 | <img src="https://i.ibb.co/641kzZz/f8eadc1d0d8eab9f952b4ef9861f3047.png" height="40" width="40" style="border-radius: 50%" />      | 4701#1074       | 1056690074227580948           | Copycat
