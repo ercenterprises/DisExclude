@@ -21,6 +21,7 @@ To add your own user, open a **[pull request](https://github.com/ercenterprises/
 | <img src="https://user-images.githubusercontent.com/121643953/213963360-382e436e-2217-4597-bca1-99dbf5361261.png" height="40" width="40" style="border-radius: 50%" />      | devoted#0001       | 747558224932372595           | Copycat
 | <img src="https://user-images.githubusercontent.com/121643953/213961723-951904b2-33df-4369-908b-d46e85f01c76.png" height="40" width="40" style="border-radius: 50%" />      | yummy#0001       | 983914775236980776           | Extreme Copycat
 | <img src="https://user-images.githubusercontent.com/121643953/213961873-5e0c8620-bd1f-4f7c-bb7f-30e55daafa25.png" height="40" width="40" style="border-radius: 50%" />      | blade#1337       | 997957302319599646           | Extreme Copycat
+| <img src="https://i.ibb.co/2c20gss/4c44748a2bcd151c89202ba6616a975b.png" height="40" width="40" style="border-radius: 50%" />      | Cubify#0001       | 923595736329900053           | Beggs for verified bots
 | <img src="https://i.ibb.co/1Mk4QD2/700f20260947c41529dd8998fcb336fe.png" height="40" width="40" style="border-radius: 50%" />      | ! Vlad.#1234       | 851496536407015495           | Skid / copycat
 | <img src="https://i.ibb.co/w0X1B2G/e851009b80ebae83b9e5cb12ffff125e.png" height="40" width="40" style="border-radius: 50%" />      | OnlyFaith♡#4731       | 1025412577360093245           | Copycat
 | <img src="https://i.ibb.co/sCxy93h/a-6dfa43c364b227c872c1f70cb394e100.gif" height="40" width="40" style="border-radius: 50%" />      | verlox#0667       | 1020440076024557628           | Copycat
@@ -234,7 +235,6 @@ To add your own user, open a **[pull request](https://github.com/ercenterprises/
 | <img src="https://i.ibb.co/VxCLmnm/c6df749cc7b623094a7f60db39a7a9a6.png" height="40" width="40" style="border-radius: 50%" />      | Envy#3094       | 710241543222722622           | Copycat
 | <img src="https://i.ibb.co/xgdFR2M/f7f2e9361e8a54ce6e72580ac7b967af.png" height="40" width="40" style="border-radius: 50%" />      | GON OMSEM#3273       | 1033717516561825923           | Copycat
 | <img src="https://i.ibb.co/Prx5kn8/2a4e816522daf29632df5138eb9bcd1b.png" height="40" width="40" style="border-radius: 50%" />      | azez#7345       | 984501464418385930           | Copycat
-| <img src="https://i.ibb.co/2c20gss/4c44748a2bcd151c89202ba6616a975b.png" height="40" width="40" style="border-radius: 50%" />      | Cubify#0001       | 923595736329900053           | Copycat
 | <img src="https://i.ibb.co/gMn19h9/d522e6990431cf49ab69ea081fadfb3a.png" height="40" width="40" style="border-radius: 50%" />      | M’dsZ#4212       | 990014121028247593           | Copycat
 | <img src="https://i.ibb.co/cwVq5sK/a-4b1b979939e7533ba5dd99cc64a5bd2d.gif" height="40" width="40" style="border-radius: 50%" />      | Glockey †#6650       | 890427068054122577           | Copycat
 | <img src="https://i.ibb.co/h1j6N9D/5c45f6ca0ce2d0f2b2ff14005cc9043a.png" height="40" width="40" style="border-radius: 50%" />      | Enxo#9999       | 1029847000977506345           | Copycat
