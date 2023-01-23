@@ -1,9 +1,9 @@
 # DisExclude 📋
-`Information 📜`<br>
+`Information: 📜`<br>
 
 DisExclude is a public list of Discord IDs to exclude from your MassDM campaigns. 
 
-`List 📝`
+`List: 📝`
 
 | PFP      | Username |    ID |   Reason
 | ----------- | ----------- | ----------- | ----------- |
