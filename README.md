@@ -5,7 +5,7 @@ DisExclude is a public list of Discord IDs to exclude from your MassDM campaigns
 
 Click **[here](https://github.com/ercenterprises/DisExclude/blob/main/ids.txt)** to access all the IDs in a text file.
 
-To add your own user, open a **[pull request](https://github.com/ercenterprises/DisExclude/pulls)**.
+To add your own user, open a **[pull request](https://github.com/ercenterprises/DisExclude/pulls)** with the <a href="https://github.com/ercenterprises/DisExclude/labels/addition">addition</a> label.
 
 `List: 📝`
 
