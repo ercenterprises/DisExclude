@@ -21,6 +21,7 @@ To add your own user, open a **[pull request](https://github.com/ercenterprises/
 | <img src="https://user-images.githubusercontent.com/121643953/213963360-382e436e-2217-4597-bca1-99dbf5361261.png" height="40" width="40" style="border-radius: 50%" />      | devoted#0001       | 747558224932372595           | Copycat
 | <img src="https://user-images.githubusercontent.com/121643953/213961723-951904b2-33df-4369-908b-d46e85f01c76.png" height="40" width="40" style="border-radius: 50%" />      | yummy#0001       | 983914775236980776           | Extreme Copycat
 | <img src="https://user-images.githubusercontent.com/121643953/213961873-5e0c8620-bd1f-4f7c-bb7f-30e55daafa25.png" height="40" width="40" style="border-radius: 50%" />      | blade#1337       | 997957302319599646           | Extreme Copycat
+| <img src="https://i.ibb.co/1Mk4QD2/700f20260947c41529dd8998fcb336fe.png" height="40" width="40" style="border-radius: 50%" />      | ! Vlad.#1234       | 851496536407015495           | Skid / copycat
 | <img src="https://i.ibb.co/w0X1B2G/e851009b80ebae83b9e5cb12ffff125e.png" height="40" width="40" style="border-radius: 50%" />      | OnlyFaith♡#4731       | 1025412577360093245           | Copycat
 | <img src="https://i.ibb.co/sCxy93h/a-6dfa43c364b227c872c1f70cb394e100.gif" height="40" width="40" style="border-radius: 50%" />      | verlox#0667       | 1020440076024557628           | Copycat
 | <img src="https://i.ibb.co/sPtW94r/eb4a12d5a9f8f64ec8792545d10e3e0c.png" height="40" width="40" style="border-radius: 50%" />      | Idkman#9164       | 1048407375742251038           | Copycat
@@ -338,7 +339,6 @@ To add your own user, open a **[pull request](https://github.com/ercenterprises/
 | <img src="https://i.ibb.co/fMtGY36/0bac8339b37152f7b69af7cade44c508.png" height="40" width="40" style="border-radius: 50%" />      | N O V A#0414       | 803647441421336616           | Copycat
 | <img src="https://i.ibb.co/G0BHdgm/41d0e4f824ba9cec0ceffd8ead667c3e.png" height="40" width="40" style="border-radius: 50%" />      | Ekip#5827       | 956987899323220039           | Copycat
 | <img src="https://i.ibb.co/5nRQbkp/b2e4a4c8affc60a40ce1acb5340e5122.png" height="40" width="40" style="border-radius: 50%" />      | Moppa#9756       | 733321139828293672           | Copycat
-| <img src="https://i.ibb.co/1Mk4QD2/700f20260947c41529dd8998fcb336fe.png" height="40" width="40" style="border-radius: 50%" />      | ! Vlad.#1234       | 851496536407015495           | Copycat
 | <img src="https://i.ibb.co/BLgmLn1/4.png" height="40" width="40" style="border-radius: 50%" />      | Kulanosvis#6592       | 467365847908745218           | Copycat
 | <img src="https://i.ibb.co/WKZg8LY/098436793f221bc19d9d4a1e25ae6e4e.png" height="40" width="40" style="border-radius: 50%" />      | Terms of Service#0859       | 1055964598303473825           | Copycat
 | <img src="https://i.ibb.co/F5sjFp2/a56c9c0f085ab53027c85ee5cdd5aa9c.png" height="40" width="40" style="border-radius: 50%" />      | pancakes123#7994       | 810756618152968214           | Copycat
