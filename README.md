@@ -98,7 +98,6 @@ To add your own user, open a **[pull request](https://github.com/ercenterprises/
 | <img src="https://i.ibb.co/jDv9LzD/9b202b88d7e181e185dfd5fabb329de7.png" height="40" width="40" style="border-radius: 50%" />      | i dont know#5494       | 448703702312943626           | Copycat
 | <img src="https://i.ibb.co/5BVnhhg/651502ed021ad9c928bfddaf44db5e89.png" height="40" width="40" style="border-radius: 50%" />      | SahudTheWarrior#7516       | 999698629877047447           | Copycat
 | <img src="https://i.ibb.co/5YdHhLr/ff4fd1910c6e6b7620789d299eb20ab1.png" height="40" width="40" style="border-radius: 50%" />      | Virus#1000       | 1060955998002618489           | Copycat
-| <img src="https://i.ibb.co/BLgmLn1/4.png" height="40" width="40" style="border-radius: 50%" />      | ERC#0001       | 1049709663572197376           | Copycat
 | <img src="https://i.ibb.co/ckPJLNC/b6702bfd7d1e6031ccc4f02eddec8d71.png" height="40" width="40" style="border-radius: 50%" />      | !                           BL™#4992       | 1011567665933983745           | Copycat
 | <img src="https://i.ibb.co/vcK5M6F/5e087f5385b2629c76f5059c30e5c52e.png" height="40" width="40" style="border-radius: 50%" />      | Wumpus.#4385       | 1057620625444843580           | Copycat
 | <img src="https://i.ibb.co/ngQbb53/a-147fc95828d529c5dc7577a7f729970f.gif" height="40" width="40" style="border-radius: 50%" />      | !                              !#1337       | 1028363899088683058           | Copycat
@@ -141,7 +140,6 @@ To add your own user, open a **[pull request](https://github.com/ercenterprises/
 | <img src="https://i.ibb.co/gdkYcRD/a-6830b49b5d662a663ba2140b7000a77e.gif" height="40" width="40" style="border-radius: 50%" />      | Itzzakarsh#5380       | 992286423774408714           | Copycat
 | <img src="https://i.ibb.co/YbhXMQh/35bc901c95deab533187d9514e8a6fc5.png" height="40" width="40" style="border-radius: 50%" />      | ImLegit#4140       | 903009850253013072           | Copycat
 | <img src="https://i.ibb.co/1Kd3xHZ/5a70013fe0ef99b4ad5c1fade9a79333.png" height="40" width="40" style="border-radius: 50%" />      | chrik#4214       | 1013491572945465486           | Copycat
-| <img src="https://i.ibb.co/KyHRz5F/6e0420487d757ff29c383601cda15d25.png" height="40" width="40" style="border-radius: 50%" />      | ERC#0003       | 380441327374172160           | Copycat
 | <img src="https://i.ibb.co/r0DbZgY/a-e72d2c7c7a319d024407aea95357abaf.gif" height="40" width="40" style="border-radius: 50%" />      | Amery#1358       | 1065486648244178964           | Copycat
 | <img src="https://i.ibb.co/QJCvmLd/b04c14287df4a3ebc0be146c262d5527.png" height="40" width="40" style="border-radius: 50%" />      | mewmew#0616       | 1057166396825538560           | Copycat
 | <img src="https://i.ibb.co/N3VgvNY/742b601087a7689aedaa788ae3b929a9.png" height="40" width="40" style="border-radius: 50%" />      | Meow12346#6863       | 1028924522142912582           | Copycat
