@@ -10,7 +10,6 @@ DisExclude is a public list of Discord IDs to exclude from your MassDM campaigns
 | <img src="https://user-images.githubusercontent.com/121643953/213957651-05e4f082-4036-41be-91d4-0cd0a7ca446d.png" height="40" width="40" style="border-radius: 50%" />      | xplicit#0001       | 1048771417744871486           | Copycat / Reporter
 | <img src="https://user-images.githubusercontent.com/121643953/213957884-37f1d912-b44f-4ea3-8fb9-d96e0837b6a7.png" height="40" width="40" style="border-radius: 50%" />      | $age#0003       | 120993867133747203           | Copycat
 | <img src="https://i.ibb.co/GJthCWs/a-2ff73fcd42b640ed16206a56ce4d252a.gif" height="40" width="40" style="border-radius: 50%" />      | MaxiPad#0001       | 1011882220400685078           | Mass Reporter
-
 | <img src="https://i.ibb.co/w0X1B2G/e851009b80ebae83b9e5cb12ffff125e.png" height="40" width="40" style="border-radius: 50%" />      | OnlyFaith♡#4731       | 1025412577360093245           | Copycat
 | <img src="https://i.ibb.co/sCxy93h/a-6dfa43c364b227c872c1f70cb394e100.gif" height="40" width="40" style="border-radius: 50%" />      | verlox#0667       | 1020440076024557628           | Copycat
 | <img src="https://i.ibb.co/sPtW94r/eb4a12d5a9f8f64ec8792545d10e3e0c.png" height="40" width="40" style="border-radius: 50%" />      | Idkman#9164       | 1048407375742251038           | Copycat
