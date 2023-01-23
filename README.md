@@ -1,1 +1,2 @@
-# DisExclude [![Discord Icon](https://skillicons.dev/icons?i=discord)](https://github.com/ercenterprises/DisExclude)
+# DisExclude 📋
+A public list of Discord IDs to exclude from your MassDM campaigns. 
