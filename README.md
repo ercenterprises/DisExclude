@@ -3,6 +3,8 @@
 
 DisExclude is a public list of Discord IDs to exclude from your MassDM campaigns. 
 
+Click **[here](https://github.com/ercenterprises/DisExclude/blob/main/ids.txt)** to access all the IDs in a text file.
+
 `List: 📝`
 
 | PFP      | Username |    ID |   Reason
