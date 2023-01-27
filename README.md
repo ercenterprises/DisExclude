@@ -11,6 +11,7 @@ To add your own user, open a **[pull request](https://github.com/ercenterprises/
 
 | PFP      | Username |    ID |   Reason
 | ----------- | ----------- | ----------- | ----------- |
+| <img src="https://user-images.githubusercontent.com/121643953/215015966-96bb29ed-9239-414e-b473-fb4e23d44f33.png" height="40" width="40" style="border-radius: 50%" />      | Pillowtalk#0990       | 1053496742475206676           | Xplicit alt / copycat / fat ass
 | <img src="https://user-images.githubusercontent.com/121643953/213957651-05e4f082-4036-41be-91d4-0cd0a7ca446d.png" height="40" width="40" style="border-radius: 50%" />      | xplicit#0001       | 1048771417744871486           | Copycat / Reporter
 | <img src="https://user-images.githubusercontent.com/121643953/213963069-780c5582-8a1e-4d7f-b899-ff826e1ec8ef.png" height="40" width="40" style="border-radius: 50%" />      | Insource#6609       | 980510115994161222           | Alternative of `xplicit#0001`
 | <img src="https://user-images.githubusercontent.com/121643953/213963565-3f941cc5-d423-487d-ade7-f9ba273c39bf.png" height="40" width="40" style="border-radius: 50%" />      | Vague#7103       | 950181691132088401           | Yet another alt of `xplicit#0001` 🙄
